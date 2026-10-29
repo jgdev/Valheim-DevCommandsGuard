@@ -1,0 +1,9 @@
+{
+  "name": "Valheim_DevCommandsGuard",
+  "version_number": "1.0.1",
+  "website_url": "https://github.com/jgdev/Valheim-DevCommandsGuard",
+  "description": "Server-configurable guard to reject clients with -console or devcommands, and highlights non-admin players using debugmode or god mode in red.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
